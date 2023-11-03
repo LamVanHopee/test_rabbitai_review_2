@@ -3,6 +3,7 @@ settings:
   additional_branches_to_be_reviewed:
     - "feature/*"
     - "fix/*"
+    - "develop"
   disable_high_level_summary: false
   ignored_pr_titles: "WIP"
   review_language: "en"
